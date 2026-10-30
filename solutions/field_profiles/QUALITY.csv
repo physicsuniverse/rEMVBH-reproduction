@@ -1,0 +1,10 @@
+profile,Smarr_rel,TH_AH_rel,g_H,status
+sol_chi0p11_q0p70.txt,5.302e-11,5.041e-12,4.0000000000,qualified
+sol_chi0p11_q1p00.txt,3.007e-10,3.248e-10,4.0000000000,qualified
+sol_q6937_chi0p10.txt,6.645e-11,3.946e-12,4.0000000000,qualified
+sol_q6937_chi0p30.txt,7.035e-11,4.482e-11,4.0000000000,qualified
+sol_q6937_chi0p50.txt,6.972e-11,2.016e-10,4.0000000000,qualified
+unqualified/sol_chi0p11_q1p34.txt,1.343e-02,5.273e-02,3.9948606495,UNQUALIFIED
+unqualified/sol_q6937_chi0p73.txt,2.166e-05,2.060e-05,3.9999986237,gray
+../metric_files/metric_chi10-q1p2527_100x50.dat,n/a (no gauge fields),2.229e-10,4.0000000000,qualified
+../metric_files/metric_tensorNoG100x50_q1387chi347.dat,n/a (no gauge fields),2.905e-05,4.0000000000,gray

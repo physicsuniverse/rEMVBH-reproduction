@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# matplotlib cache
+.mplconfig/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large FOORT screen data (regenerable; not needed to replot)
+*.dat
+!solutions/metric_files/*.dat
+
+# test caches
+tests/_cache/
+verify/out/
+
+# local override for the raw parameter-scan archive (never commit)
+archive/
+raw/

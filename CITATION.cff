@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the paper and this repository."
+title: "rEMVBH-reproduction: Reproduction package for `Rotation overcharges vectorized black holes'"
+abstract: >-
+  Data, derived equations, verification scripts, unit tests and plotting code
+  reproducing the numerical results of the paper "Rotation overcharges
+  vectorized black holes" (rotating solutions of the Einstein--Maxwell--Vector
+  model). Running `python3 run_all.py` executes the full verification pipeline
+  (46 checks, 0 failures).
+authors:
+  - family-names: Guo
+    given-names: Shengjun
+  - family-names: Ye
+    given-names: Guangzai
+  - family-names: Liu
+    given-names: Peng
+    orcid: ""
+year: 2026
+license: MIT
+repository-code: "https://github.com/physicsuniverse/rEMVBH-reproduction"
+identifiers:
+  - type: doi
+    value: "10.48550/arXiv.2610.40179"
+    description: "arXiv preprint"
+preferred-citation:
+  type: article
+  title: "Rotation overcharges vectorized black holes"
+  authors:
+    - family-names: Guo
+      given-names: Shengjun
+    - family-names: Ye
+      given-names: Guangzai
+    - family-names: Liu
+      given-names: Peng
+  year: 2026
+  eprint: "2610.40179"
+  archivePrefix: "arXiv"
+  url: "https://arxiv.org/abs/2610.40179"
+keywords:
+  - black holes
+  - vector hair
+  - Einstein-Maxwell-Vector
+  - rotating black holes
+  - numerical relativity
+  - spectral methods
+  - reproducibility
