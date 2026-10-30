@@ -14,7 +14,6 @@ authors:
     given-names: Guangzai
   - family-names: Liu
     given-names: Peng
-    orcid: ""
 year: 2026
 license: MIT
 repository-code: "https://github.com/physicsuniverse/rEMVBH-reproduction"
@@ -23,7 +22,7 @@ identifiers:
     value: "10.48550/arXiv.2610.40179"
     description: "arXiv preprint"
 preferred-citation:
-  type: article
+  type: preprint
   title: "Rotation overcharges vectorized black holes"
   authors:
     - family-names: Guo

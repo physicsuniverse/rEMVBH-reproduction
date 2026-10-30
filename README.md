@@ -9,8 +9,8 @@
 Data, derived equations, verification scripts, unit tests and plotting code for
 
 > **Rotation overcharges vectorized black holes**
-> Shengjun Guo, [Guangzai Ye](https://orcid.org/), Peng Liu
-> [arXiv:2610.40179](https://arxiv.org/abs/2610.40179) *(to appear in Physical Review D)*
+> Shengjun Guo, Guangzai Ye, Peng Liu
+> [arXiv:2610.40179](https://arxiv.org/abs/2610.40179) *(preprint)*
 
 **One command reproduces the entire verification pipeline:**
 
@@ -45,7 +45,7 @@ It contains:
 > The solver, its Mathematica implementation, and the solution-generation pipeline are not
 > distributed here. What is provided are the **solutions** (as data), the **equations**
 > they satisfy, the **residuals** that certify them, and the **code that turns the data
-> into the published figures** — i.e. everything needed to *verify and replot* the results,
+> into the figures in the paper** — i.e. everything needed to *verify and replot* the results,
 > not to *regenerate* the solutions from scratch.
 
 ---
@@ -143,7 +143,7 @@ python3 fig10_spectral.py      # spectral smoothness
 ```
 
 `plotting/figstyle.py` holds the shared style (figure sizes, colour maps, fonts) so that
-the output matches the published figures.
+the output matches the figures in the paper.
 
 ## What runs out of the box
 
@@ -255,7 +255,7 @@ Code: **MIT** (see [LICENSE](LICENSE)). Data and figures: freely usable with att
 If you use this package, please cite both the paper and the repository:
 
 ```bibtex
-@article{Guo:2026overcharge,
+@misc{Guo:2026overcharge,
   author        = {Guo, Shengjun and Ye, Guangzai and Liu, Peng},
   title         = {Rotation overcharges vectorized black holes},
   year          = {2026},
